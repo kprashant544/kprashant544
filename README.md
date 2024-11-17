@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- Software development Languages section -->
-<p align="center">
+<p align="left">
   <img
     src="https://img.shields.io/badge/C/C++-FF6347.svg?style=for-the-badge&amp;"
     alt="C/C++"
