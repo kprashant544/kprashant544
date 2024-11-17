@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Prashant Kasula</h1>
-<p>A passionate Learner and Computer Science & IT Undergraduate Student from Nepal</p>
+<h3>A passionate Learner and Computer Science & IT Undergraduate Student from Nepal</h3>
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
 
 <h2 align="left">Connect with me:</h2>
