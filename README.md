@@ -138,12 +138,6 @@
 
 ### :fire: My Stats :
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kprashant544&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="kprashant544" /></p>
 
-<p align="center">
-  <img
-    src="https://github.com/kprashant544/kprashant544/blob/main/profile-3d-contrib/profile-night-rainbow.svg"
-    alt="Github Stats Summary"
-  />
-</p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sthsuyash&theme=dark&background=000000)" alt="sthsuyash" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kprashant544&" alt="kprashant544" /></p>
