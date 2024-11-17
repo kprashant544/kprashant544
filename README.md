@@ -37,7 +37,7 @@
 </p>
 
 <!-- Web development section -->
-<p align="center">
+<p align="left">
   <img
     src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white"
     alt="HTML5"
@@ -53,7 +53,7 @@
 </p>
 
 <!-- frontend framworks section -->
-<p align="center">
+<p align="left">
   <img
     src="https://img.shields.io/badge/reactjs-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB"
     alt="React"
@@ -91,7 +91,7 @@
 </p>
 
 <!-- database section -->
-<p align="center">
+<p align="left">
   <img
     src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL"
@@ -102,7 +102,7 @@
   />
 </p>
 <!-- extra section -->
-<p align="center">
+<p align="left">
   <img
     src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
     alt="Postman"
